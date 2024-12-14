@@ -4,11 +4,7 @@ This is repo contains all essential files to run FloraNet. It also has a Wiki wh
 
 # Navigating the File System
 
-The repo contains documentation, hardware, software, and firmware files.
-
-## docs
-
-This folder contains documentation for FloraNet like block diagrams, project requirements, and test plan results.
+The repo contains essential hardware, software, and firmware files.
 
 ## hardware
 
@@ -16,8 +12,12 @@ This folder contains the Gerber files and BOM for the Petal Radio. The Gerber fi
 
 ## software
 
-This folder contains the web app files necessary for the SD card.
+This folder contains block diagram, web app, and the firmware files.
 
-## firmware
+### software/web-app
 
-This folder contains the firmware files necessary to run FloraNet.
+This folder contains all the web-app files required for the SD card.
+
+### software/firmware
+
+This folder contains all the firmware files required for FloraNet.
